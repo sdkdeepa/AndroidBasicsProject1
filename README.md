@@ -1,2 +1,2 @@
 # UdacityAndroidBasics
-#AndroidBasicsProject2
+#AndroidBasicsProject1
